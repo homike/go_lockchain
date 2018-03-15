@@ -8,7 +8,7 @@ import (
 	"math/big"
 )
 
-// 工作证明
+// "工作证明", 让挖矿变得困难
 
 const targetBits = 24
 
